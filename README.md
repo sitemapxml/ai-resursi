@@ -5,13 +5,17 @@
 ## Javascript biblioteke
 
 ##### Napredna grafička rešenja, animacije i interfejsi
-- three.js
-- openGL
-- aFrame
+- three.js [github](https://github.com/mrdoob/three.js/) [website](https://threejs.org/)
+- openGL [website](https://www.opengl.org/)
+- aFrame [github](https://github.com/aframevr/aframe) [website](https://aframe.io/)
 
 ##### Mašinsko učenje
-- tensorflow
-- AutoML
+- tensorflow [github](https://github.com/tensorflow/tensorflow) [website](https://www.tensorflow.org/)
+
+Resursi
+
+- [https://github.com/windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
+- [https://cloud.google.com/automl](https://cloud.google.com/automl)
 
 ##### Augmented Reality
 - AR.js [github](https://github.com/AR-js-org/AR.js)
